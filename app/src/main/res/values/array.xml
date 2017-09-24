@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_supplier_options">
+        <item name="select_supplier">Select supplier</item>
+        <item name="Blue_velvet">Blue velvet</item>
+        <item name="Lost_highway">Lost Highway</item>
+        <item name="Twin_peaks">Twin Peaks</item>
+        <item name="Dune">Dune</item>
+        <item name="Elephant_man">The elephant man</item>
+        <item name="Eraserhead">Eraserhead</item>
+        <item name="Wild_at_hearth">Wild at hearth</item>
+        <item name="Fire_walk_with_me">Fire walk with me</item>
+        <item name="Mulholland_drive">Mulholland drive</item>
+        <item name="The_straight_story">The straight story</item>
+        <item name="Rabbits">Rabbits</item>
+    </string-array>
+</resources>
